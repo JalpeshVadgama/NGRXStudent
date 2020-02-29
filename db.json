@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "firstname": "Jalpesh",
+      "lastname": "Vadgama",
+      "class": "MCA",
+      "id": 1
+    },
+    {
+      "firstname": "Vishal Vadgama",
+      "lastname": "Vadgama",
+      "class": "BE Comp",
+      "id": 2
+    }
+  ]
+}
