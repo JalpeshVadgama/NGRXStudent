@@ -8,7 +8,9 @@ import { Component, OnInit } from "@angular/core";
 export class StudentComponent implements OnInit {
   students: any;
 
-  constructor() {}
+  constructor() { }
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+
+  }
 }
